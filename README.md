@@ -2,4 +2,4 @@
 
 Written by Maria Alejandra Muñoz with a given starter code
 
-Document with the specs: https://drive.google.com/file/d/1cy0GuVwXeDksihcyDeSZGbDoiFzit078/view?usp=sharing
+Document with the specs: https://drive.google.com/file/d/1guGP2Uu4P56IsX5aO49ja7J38nSxzUFt/view?usp=sharing
